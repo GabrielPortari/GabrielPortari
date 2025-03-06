@@ -6,9 +6,9 @@ Sou desenvolvedor Android, apaixonado por tecnologia e entusiasta por academia e
 🚀 Minha habilidades
 - Desenvolvimento Android (Java/Kotlin)
 - Arquitetura MVVM
-- APIs com Retrofit
-- Firebase (Realtime Database, Authenticator,  Storage)
-- Banco de dados SQLite e ROOM
+- Consumo de Web Service - REST e RESTFul
+- Banco de dados SQLite, ROOM e Firebase (Realtime Database, Authenticator,  Storage)
+- Threads e Coroutines
 - Git e Github
 
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
