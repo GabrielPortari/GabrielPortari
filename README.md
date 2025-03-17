@@ -1,7 +1,5 @@
 # Olá, eu sou Gabriel 👋
 Sou desenvolvedor Android, apaixonado por tecnologia e entusiasta por academia e games
-
-## 🧐 Atualmente buscando uma vaga como Desenvolvedor Android
  
 🚀 Minha habilidades
 - Desenvolvimento Android (Java/Kotlin)
