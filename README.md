@@ -1,8 +1,8 @@
 # Olá, eu sou Gabriel 👋
-Sou desenvolvedor Android, apaixonado por tecnologia e entusiasta por academia e games
+Sou desenvolvedor mobile, apaixonado por tecnologia e entusiasta por academia e games
  
 🚀 Minha habilidades
-- Desenvolvimento Android (Java/Kotlin)
+- Desenvolvimento Mobile (Dart/Java/Kotlin)
 - Arquitetura MVVM
 - Consumo de Web Service - REST e RESTFul
 - Banco de dados SQLite, ROOM e Firebase (Realtime Database, Authenticator,  Storage)
@@ -21,5 +21,5 @@ Sou desenvolvedor Android, apaixonado por tecnologia e entusiasta por academia e
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.gabrielportari@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18996570521)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-portari-3aa73623b)
-[![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielPortari)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielPortari)
 
