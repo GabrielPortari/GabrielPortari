@@ -3,9 +3,9 @@ Sou desenvolvedor mobile, apaixonado por tecnologia e entusiasta por academia e 
  
 🚀 Minha habilidades
 - Desenvolvimento Mobile (Dart/Java/Kotlin)
-- Arquitetura MVVM
+- Android studio, flutter
 - Consumo de Web Service - REST e RESTFul
-- Banco de dados SQLite, ROOM e Firebase (Realtime Database, Authenticator,  Storage)
+- Banco de dados SQLite, ROOM e Firebase (Realtime Database, Authenticator, Storage)
 - Threads e Coroutines
 - Git e Github
 
