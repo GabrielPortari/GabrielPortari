@@ -5,7 +5,7 @@ Sou desenvolvedor mobile, apaixonado por tecnologia e entusiasta por academia e 
 - Desenvolvimento Mobile (Dart/Java/Kotlin)
 - Android studio, flutter
 - Consumo de Web Service - REST e RESTFul
-- Banco de dados SQLite, ROOM e Firebase (Realtime Database, Authenticator, Storage)
+- Banco de dados SQLite, Firebase
 - Threads e Coroutines
 - Git e Github
 
