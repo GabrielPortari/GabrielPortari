@@ -6,7 +6,6 @@ Sou desenvolvedor mobile, apaixonado por tecnologia e entusiasta por academia e 
 - Android studio, flutter
 - Consumo de Web Service - REST e RESTFul
 - Banco de dados SQLite, Firebase
-- Threads e Coroutines
 - Git e Github
 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
