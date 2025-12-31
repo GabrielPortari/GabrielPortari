@@ -36,7 +36,7 @@ Sou desenvolvedor mobile apaixonado por tecnologia, rato de academia e gamer no 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielPortari&layout=compact&theme=dark)
 
 ## 🚀 Projetos em destaque
-![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=kids_space&theme=dark)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=kids_space&theme=dark)](https://github.com/GabrielPortari/kids_space)
 
 ## 📱 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-portari-3aa73623b)
