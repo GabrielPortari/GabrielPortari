@@ -29,6 +29,7 @@ Sou desenvolvedor mobile apaixonado por tecnologia, rato de academia e gamer no 
 ### Bancos de dados
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Estatísticas
 ![Gabriel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GabrielPortari&show_icons=true&theme=dark&rank_icon=github)
