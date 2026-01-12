@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel 👋
 
-Sou desenvolvedor mobile apaixonado por tecnologia, rato de academia e gamer no tempo livre 🚀
+Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo livre 🚀
 
 ## 🛠️ Habilidades
 - Dart, Java, Kotlin
