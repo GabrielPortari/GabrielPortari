@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel 👋
+# Opa eai, eu sou Gabriel 👋
 
 Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo livre 🚀
 
