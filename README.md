@@ -3,8 +3,8 @@
 Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo livre 🚀
 
 ## 🛠️ Habilidades
-- Dart, Java, Kotlin
-- Flutter, Android Studio
+- Dart, Java, Kotlin, Typescript
+- Flutter, Android Studio, NestJS, NPM
 - REST APIs, Firebase, SQLite
 - Git & GitHub
 ### Linguagens
