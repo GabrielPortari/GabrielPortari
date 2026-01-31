@@ -7,6 +7,12 @@ Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo l
 - Flutter, Android Studio, NestJS, NPM
 - REST APIs, Firebase, SQLite
 - Git & GitHub
+
+- Aprendendo React Native 01/02
+
+### Aprendendo
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ### Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
