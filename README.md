@@ -4,14 +4,9 @@ Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo l
 
 ## 🛠️ Habilidades
 - Dart, Java, Kotlin, Typescript
-- Flutter, Android Studio, NestJS, NPM
+- Flutter, Android Studio, NestJS, NPM, React Native
 - REST APIs, Firebase, SQLite
 - Git & GitHub
-
-- Aprendendo React Native 01/02
-
-### Aprendendo
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,6 +16,7 @@ Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo l
 
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
