@@ -44,8 +44,8 @@ Sou desenvolvedor apaixonado por tecnologia, rato de academia e gamer no tempo l
 <div align="center">
   
 ## 🚀 Projetos em destaque
-[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=kids_space&theme=dark)](https://github.com/GabrielPortari/kids_space)
-[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=kids_space_back&theme=dark)](https://github.com/GabrielPortari/kids_space_back)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=pede-facil-business&theme=dark)](https://github.com/GabrielPortari/pede-facil-business)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=pede-facil-backend&theme=dark)](https://github.com/GabrielPortari/pede-facil-backend)
 
 </div>
 
