@@ -33,21 +33,6 @@ Developer, gamer, and lift weghts at free time
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 Statistics
-<div align="center">
-  
-![Gabriel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GabrielPortari&show_icons=true&theme=dark&rank_icon=github)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=GabrielPortari&theme=dark)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielPortari&layout=compact&theme=dark)
-
-</div>
-<div align="center">
-  
-## 🚀 Featured
-[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=pede-facil-business&theme=dark)](https://github.com/GabrielPortari/pede-facil-business)
-[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=GabrielPortari&repo=pede-facil-backend&theme=dark)](https://github.com/GabrielPortari/pede-facil-backend)
-
-</div>
 
 ## 📱 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-portari-3aa73623b)
